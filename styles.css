@@ -102,6 +102,12 @@ body {
   cursor: pointer;
 }
 
+.company-form form button:hover {
+  color: #fff;
+  background-color: #4895ef;
+  transition: 0.9s;
+}
+
 .company-form form input,
 .company-form form textarea {
   border: 1px solid #4cc9f0;
